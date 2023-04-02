@@ -1,0 +1,2 @@
+mongodb+srv://hi-shadow:shadowsmongodb@cluster0.j8hjafc.mongodb.net/?retryWrites=true&w=majority
+shadowsmongodb
